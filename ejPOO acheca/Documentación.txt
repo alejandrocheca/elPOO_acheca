@@ -1,0 +1,1 @@
+En el proyecto se ha intentado usar el Composite pattern, polimorfismo a traves del override y el pubsub
