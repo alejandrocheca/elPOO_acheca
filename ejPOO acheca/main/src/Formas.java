@@ -3,10 +3,9 @@ public class Formas extends Figura{
         super(colRelleno, colBorde);
     }
 
-
-    private Estrellas Estrellas;
-    private Corazon Corazon;
-    private Rayo Rayo;
+    private Estrellas;
+    private Corazon;
+    private Rayo;
 
     public void CrearForma() {
         Estrellas = new Estrellas();
@@ -24,7 +23,5 @@ public class Formas extends Figura{
         return (Rayo);
     }
 
-    public void dibuja(){
-        return();
-    };
+
 }
