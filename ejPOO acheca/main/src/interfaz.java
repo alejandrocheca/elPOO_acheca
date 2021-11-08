@@ -1,7 +1,7 @@
 public interface interfaz {
     
-    public void draw();
-    public void draw();
-    public void draw();
+    public void dibujarRayo();
+    public void dibujarEstrella();
+    public void dibujarCorazon();
 
 }
